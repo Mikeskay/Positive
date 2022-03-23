@@ -4,6 +4,7 @@
 Write a Java program named Positive.java that reads a double value from the user.
 
 Take the following actions, depending on the value:
+
 • If the value is positive, request a second value. Print the difference between
 these two numbers so that the difference is always positive. For instance, if the
 first value is 10.3 and the second is 4.1, you would print the result of 6.2. If the
